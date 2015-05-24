@@ -33,6 +33,7 @@ namespace bsearch
         {
             int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine("{0}", Search.bsearch(arr, 7));
+            Console.WriteLine("conflict2");
         } 
     }
 }
