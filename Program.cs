@@ -22,7 +22,6 @@ namespace bsearch
 
         public static int bsearch(int[] arr, int val)
         {
-            Console.WriteLine("test2");
             int left = 0, right = arr.Length - 1;
             return helper(arr, val, left, right);
         }
