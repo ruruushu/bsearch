@@ -33,11 +33,7 @@ namespace bsearch
         {
             int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine("{0}", Search.bsearch(arr, 7));
-<<<<<<< HEAD
-            Console.WriteLine("crazy change");
-=======
-            asd
->>>>>>> 9fbfd7bcf1a37229ea05bb14e01234d059c80e2a
+            test1
         } 
     }
 }
