@@ -24,7 +24,6 @@ namespace bsearch
         {
             int left = 0, right = arr.Length - 1;
             return helper(arr, val, left, right);
-            asd
         }
     }
 
@@ -34,7 +33,6 @@ namespace bsearch
         {
             int[] arr = { 1, 2, 3, 4, 5, 6, 7 };
             Console.WriteLine("{0}", Search.bsearch(arr, 7));
-            asd
         } 
     }
 }
