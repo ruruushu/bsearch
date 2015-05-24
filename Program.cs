@@ -24,6 +24,7 @@ namespace bsearch
         {
             int left = 0, right = arr.Length - 1;
             return helper(arr, val, left, right);
+            asd
         }
     }
 
